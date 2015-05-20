@@ -1,2 +1,2 @@
 # Expert
-The repository for training
+The repository for training.
